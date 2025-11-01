@@ -1,0 +1,60 @@
+﻿<Window x:Class="WpfApp2.ManagerPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="ManagerPage" Height="450" Width="800">
+    <Grid Background="#FFC77734">
+        <StackPanel Margin="30,0,30,30">
+
+            <StackPanel Orientation="Horizontal">
+                <StackPanel Margin="0,30,90,30" Width="226">
+                    <StackPanel Margin="0,0,0,20" Orientation="Horizontal">
+                        <Label Content="Task ID : " FontWeight="Bold" Foreground="#FFDDDDDD"/>
+                        <TextBox x:Name="txtTaskID" Width="119" IsReadOnly="True" Foreground="#FFDDDDDD" Background="#FFA45818"/>
+                    </StackPanel>
+
+                    <StackPanel Margin="0,0,0,20" Orientation="Horizontal">
+                        <Label Content="Title : " FontWeight="Bold" Foreground="#FFDDDDDD"/>
+                        <TextBox x:Name="txtTaskTitle" Width="119" Foreground="#FFC67734"/>
+                    </StackPanel>
+                    
+                    
+                    <StackPanel Margin="0,0,0,20" Orientation="Horizontal">
+                        <Label Content="discription : " FontWeight="Bold" Foreground="#FFDDDDDD"/>
+                        <TextBox x:Name="txtTaskDesc" Width="119" Foreground="#FFC67734"/>
+                    </StackPanel>
+                </StackPanel>
+
+                <StackPanel Margin="0,30,0,30" Width="255" Height="115">
+                    <StackPanel Margin="0,0,0,20" Orientation="Horizontal">
+                        <Label Content="Status : " FontWeight="Bold" Foreground="#FFDDDDDD"/>
+                        <ComboBox x:Name="comboooo" Margin="30,10,0,10" Width="153" Foreground="#FFC67734" FontWeight="Bold">
+                            <ComboBoxItem Content="Pending"/>
+                            <ComboBoxItem Content="Progress"/>
+                            <ComboBoxItem Content="Completed" IsSelected="True"/>
+                        </ComboBox>
+                    </StackPanel>
+
+                    <StackPanel Margin="0,0,0,20" Orientation="Horizontal">
+                        <Label Content="Emp Name : " FontWeight="Bold" Foreground="#FFDDDDDD"/>
+                        <TextBox x:Name="txtEmpName" Width="119" Foreground="#FFC67734"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Button Margin="30,10,0,10" Width="100" Content="Add" Click="Button_Click_1"/>
+                <Button Margin="30,10,0,10" Width="100" Content="Update" Click="Button_Click"/>
+                <Button Margin="30,10,0,10" Width="100" Content="Delete" Click="Button_Click_2"/>
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Text="Tasks" Foreground="White" FontWeight="Bold" Margin="5"/>
+                <DataGrid x:Name="ManegerDatagrid" Height="130" Margin="5" SelectionChanged="ManegerDatagrid_SelectionChanged"  />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

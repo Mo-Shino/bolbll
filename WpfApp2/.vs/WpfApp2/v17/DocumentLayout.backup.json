@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF31059-6679-4080-9833-E168450DC4DC}|WpfApp2.csproj|c:\\users\\shinawy\\onedrive\\desktop\\new folder (2)\\wpfapp2\\managerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF31059-6679-4080-9833-E168450DC4DC}|WpfApp2.csproj|solutionrelative:managerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF31059-6679-4080-9833-E168450DC4DC}|WpfApp2.csproj|c:\\users\\shinawy\\onedrive\\desktop\\new folder (2)\\wpfapp2\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DF31059-6679-4080-9833-E168450DC4DC}|WpfApp2.csproj|solutionrelative:managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF31059-6679-4080-9833-E168450DC4DC}|WpfApp2.csproj|c:\\users\\shinawy\\onedrive\\desktop\\new folder (2)\\wpfapp2\\employee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF31059-6679-4080-9833-E168450DC4DC}|WpfApp2.csproj|solutionrelative:employee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF31059-6679-4080-9833-E168450DC4DC}|WpfApp2.csproj|c:\\users\\shinawy\\onedrive\\desktop\\new folder (2)\\wpfapp2\\employee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DF31059-6679-4080-9833-E168450DC4DC}|WpfApp2.csproj|solutionrelative:employee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF31059-6679-4080-9833-E168450DC4DC}|WpfApp2.csproj|c:\\users\\shinawy\\onedrive\\desktop\\new folder (2)\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DF31059-6679-4080-9833-E168450DC4DC}|WpfApp2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF31059-6679-4080-9833-E168450DC4DC}|WpfApp2.csproj|c:\\users\\shinawy\\onedrive\\desktop\\new folder (2)\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF31059-6679-4080-9833-E168450DC4DC}|WpfApp2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\ManagerPage.xaml.cs",
+              "RelativeDocumentMoniker": "ManagerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\ManagerPage.xaml.cs",
+              "RelativeToolTip": "ManagerPage.xaml.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAuwIMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:37:41.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\ManagerPage.xaml",
+              "RelativeDocumentMoniker": "ManagerPage.xaml",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\ManagerPage.xaml",
+              "RelativeToolTip": "ManagerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T11:57:25.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.xaml",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\Employee.xaml",
+              "RelativeDocumentMoniker": "Employee.xaml",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\Employee.xaml",
+              "RelativeToolTip": "Employee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T10:59:31.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\Employee.xaml.cs",
+              "RelativeDocumentMoniker": "Employee.xaml.cs",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\Employee.xaml.cs",
+              "RelativeToolTip": "Employee.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwGsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T10:34:49.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T08:41:22.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Shinawy\\OneDrive\\Desktop\\New folder (2)\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:41:20.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
